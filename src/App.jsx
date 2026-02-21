@@ -110,7 +110,7 @@ function App() {
         <div className="mb-8 animate-fade-in">
           <div className="flex items-center justify-between mb-2">
             <h1 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text text-transparent">
-              Task Board
+              Tasko
             </h1>
             <div className="flex gap-2">
               <button
